@@ -9,8 +9,8 @@ We use [uv](https://docs.astral.sh/uv/) for fast, reproducible dependency manage
 
 Clone the repo and install dependencies:
 ```bash
-$ git clone https://github.com/Stability-AI/stable-audio-tools-dev.git
-$ cd stable-audio-tools-dev
+$ git clone https://github.com/Stability-AI/stable-audio-tools.git
+$ cd stable-audio-tools
 
 # Inference only
 $ uv sync
